@@ -1,4 +1,3 @@
-# PRASAD_JADHAV
 # 👋 Hello, I'm Prasad Jadhav!
 
 ## 🚀 Java Backend Developer | Spring Boot Developer
@@ -38,9 +37,9 @@ public class Developer {
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasadjadhav-bcs&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Prasadjadhav-bcs&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadjadhav-bcs&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Prasadjadhav-bcs&layout=compact&theme=tokyonight)
 
 ---
 
